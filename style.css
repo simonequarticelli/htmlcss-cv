@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Markazi Text', serif;
+  font-size: 20px;
+}
+
+div.bluchiaro {
+  border-left:40px solid #4d89a8;
+  height: 1330px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+div.bluscuro {
+  border-left:20px solid #004568;
+  height: 1330px;
+  display: inline-block;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  border-radius: 50%;
+  border-style: groove;
+}
+
+.contenuto {
+  display: inline-block;
+  width: 600px;
+  margin-left: 40px;
+}
+
+footer {
+  text-align: center;
+}
+
+ul {
+padding: inherit;
+}
